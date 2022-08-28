@@ -16,7 +16,7 @@
 <p align="center">
   <img
     align="center"
-    style"border:20px solid #555"
+    style="border:20px solid #555"
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucasr0drigues&theme=dark"
     alt="lucasr0drigues"
   />
