@@ -16,7 +16,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lucasr0drigues&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasr0drigues&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="lucasr0drigues"
   />
 </p>
@@ -24,10 +24,11 @@
 <p>
   <img
     align="center"
-    width="495"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasr0drigues&show_icons=true&theme=dark&locale=en&layout=compact"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lucasr0drigues&theme=dark"
     alt="lucasr0drigues"
   />
 </p>
+
+
 
 
