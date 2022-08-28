@@ -16,6 +16,7 @@
 <p align="center">
   <img
     align="center"
+    width="495"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasr0drigues&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="lucasr0drigues"
   />
