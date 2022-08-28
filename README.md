@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Lucas</h1>
 <h3 align="center">A full stack software developer</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/lucas-augusto-rodrigues" target="blank"
     ><img
       align="center"
@@ -13,16 +13,15 @@
   /></a>
 </p>
 
-<p align="center">
+<p>
   <img
     align="center"
-    style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;"
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucasr0drigues&theme=dark"
     alt="lucasr0drigues"
   />
 </p>
 
-<p align="center">
+<p>
   <img
     align="center"
     width="495"
