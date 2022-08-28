@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Lucas</h1>
 <h3 align="center">A full stack software developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/lucas-augusto-rodrigues" target="blank"
     ><img
       align="center"
