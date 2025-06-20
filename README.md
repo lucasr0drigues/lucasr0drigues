@@ -8,11 +8,11 @@ Hi
   />
 </p>
 
-<p>
+<!--<p>
   <img
     align="center"
     width="400"
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucasr0drigues&theme=dark&hide_border=true"
     alt="lucasr0drigues"
   />
-</p> 
+</p> //-->
