@@ -1,11 +1,6 @@
 Hi
  <p>
-  <img
-    align="center"
-    width="400"
-    src="https://unmossed-multicellular-simon.ngrok-free.dev/badges/RLHaWOmFML0L.svg?accent=white&bg=github&canvas=github"
-    alt="lucasr0drigues"
-  />
+<img src="https://unmossed-multicellular-simon.ngrok-free.dev/badges/RLHaWOmFML0L.svg?accent=white&bg=github&canvas=github" alt="Ruig heatmap" />
 </p>
 
 <!--<p>
