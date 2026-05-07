@@ -3,7 +3,7 @@ Hi
   <img
     align="center"
     width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasr0drigues&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact"
+    src="https://unmossed-multicellular-simon.ngrok-free.dev/badges/RLHaWOmFML0L.svg?accent=white&bg=github&canvas=github"
     alt="lucasr0drigues"
   />
 </p>
