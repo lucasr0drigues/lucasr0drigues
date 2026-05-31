@@ -4,23 +4,7 @@ Hi
 </p>
 
 <p>
- <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?accent=emerald&bg=ink&canvas=github" alt="Ruig heatmap" />
-</p>
-
-<p>
  <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?bg=ink&canvas=github" alt="Ruig heatmap" />
-</p>
-
-<p>
- <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?theme=blue&accent=white&bg=ink&canvas=github" alt="Ruig heatmap" />
-</p>
-
-<p>
- <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?accent=white&bg=ink&canvas=github" alt="Ruig heatmap" />
-</p>
-
-<p>
- <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?theme=green&accent=white&bg=ink&canvas=github" alt="Ruig heatmap" />
 </p>
 
 <!--<p>
