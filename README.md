@@ -4,7 +4,7 @@ Hi
 </p>
 
 <p>
- <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?accent=emerald&bg=ink&canvas=github" alt="Ruig heatmap />
+ <img src="https://ruig.online/badges/Q7Y6HdzYW1Ws.svg?accent=emerald&bg=ink&canvas=github" alt="Ruig heatmap" />
 </p>
 
 <!--<p>
